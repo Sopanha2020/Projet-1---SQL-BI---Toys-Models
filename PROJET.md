@@ -47,6 +47,13 @@ Vous pouvez installer un serveur MySQL Community sur votre machine, ainsi que le
 
 Serveur cloud
 Vous pouvez vous connecter au serveur MariaDB (un fork de MySQL) de l’entreprise.
+* Hostname: 51.178.25.157
+* Port: 23456
+* Username: toyscie
+* Password: WILD4Rdata!
+
+## Connexion avec MySQL Workbench
+![mysql_connection](https://github.com/user-attachments/assets/28ccc87f-f82d-4647-8ac5-7d20bc06ba56)
 
 ## Notes
 Vous pouvez choisir votre propre outil de reporting. Cependant, l’objectif est de pratiquer SQL. Par conséquent, vous devez obtenir les données via des requêtes SQL. Par exemple, pour les “2 vendeurs ayant réalisé le plus de chiffre d’affaires chaque mois” :
