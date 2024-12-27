@@ -20,7 +20,8 @@ Nous devions extraire et traiter des informations pertinentes à partir d'une ba
 
 ## 🧰 Outils Principaux : 
 
-**Schéma de notre réflexion pour la réalisation de notre livrable client : **
+**Schéma de notre réflexion pour la réalisation de notre livrable client :**
+<img width="940" alt="diagram" src="https://github.com/user-attachments/assets/952d4fd5-7f3a-4487-9ae9-966747051b3e" />
 
 (Par exemple: mysql => CSV => Power BI, )
 
