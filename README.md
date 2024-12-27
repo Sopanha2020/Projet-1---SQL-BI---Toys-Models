@@ -11,7 +11,8 @@ L’entreprise possède déjà une base de données qui répertorie les employé
 Votre tableau de bord doit s’articuler autour de ces 4 sujets principaux : ventes, finances, logistique, et ressources humaines. Voici les indicateurs obligatoires qui doivent figurer dans votre tableau de bord. Il est recommandé de créer des KPI supplémentaires. Cette partie est très importante pour développer vos compétences/créativité en tant que data analyst.
 
 ### Ventes : 
-      Le nombre de produits vendus par catégorie et par mois, avec comparaison et taux de variation par rapport au même mois de l’année précédente.
+      Le nombre de produits vendus par catégorie et par mois, avec comparaison 
+      et taux de variation par rapport au même mois de l’année précédente.
 
 ### Finances :
       Le chiffre d’affaires des commandes des deux derniers mois par pays.
@@ -27,8 +28,7 @@ Il arrive parfois que certains indicateurs métiers ne soient pas réalisables t
 
 ## Ressources
 Voici le schéma de la base de données :
-
-
+<img width="940" alt="diagram" src="https://github.com/user-attachments/assets/952d4fd5-7f3a-4487-9ae9-966747051b3e" />
 
 ## Outils
 Le directeur ne souhaite pas travailler avec SQL mais veut accéder aux données automatiquement et graphiquement. Vous pouvez proposer l’outil de votre choix (Power BI, Tableau, etc.), tant que le tableau de bord est pertinent.
@@ -53,7 +53,6 @@ Vous pouvez choisir votre propre outil de reporting. Cependant, l’objectif est
 
 Ce que nous aimerions voir :
 Une requête SQL montrant uniquement les “2 vendeurs ayant réalisé le plus de chiffre d’affaires chaque mois”, et une dataviz pour l’afficher.
-
 Ce que nous ne voulons pas :
 Une requête SQL montrant tous les vendeurs, puis un filtrage dans votre outil de reporting.
 
@@ -63,4 +62,5 @@ Vous donnerez une courte présentation de votre tableau de bord (demandez à vot
 * Vue d’ensemble du contexte, présentation de l’équipe et des outils utilisés.
 * Démonstration de votre tableau de bord, et interprétation des KPI métiers.
 * Difficultés rencontrées et perspectives d’évolution.
+  
 **N’hésitez pas à créer des KPI supplémentaires !**
