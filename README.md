@@ -28,12 +28,12 @@ Par exemple: mysql => CSV => Power BI
 Requêtes de chacun sur MySQL → export des requêtes en local (CSV).  
 Exploitation sur le serveur de l’entreprise si possible → Représentation des requêtes sur Power BI.	
 
-Les **KPIs** ainsi obtenus ont été représentés sous la forme de **Dataviz** via _PowerBi_ et présenté lors d'un entretien. 
+Les **KPIs** ainsi obtenus ont été représentés sous la forme de **Dataviz** via _PowerBI_ et présenté lors d'un entretien. 
 
 ## ⌛ Temps Imparti : 
 3 semaines
 
-## Exemples : 
+## Dashboards : 
 
 ![sales](https://github.com/user-attachments/assets/5fa5ebd9-fc05-440d-b7ef-ecbb5110bce5)
 
