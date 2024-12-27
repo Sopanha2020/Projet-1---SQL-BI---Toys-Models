@@ -1,66 +1,51 @@
-# Projet-1-AZAS-SQL-BI-Toys-and-Models
-![header](https://github.com/user-attachments/assets/0ef81886-c07d-49ec-8265-b9894c533b01)
+# 🚗 Projet-1-AZAS-SQL-BI-Toys-and-Models
+Projet de groupe réalisé dans le cadre de la formation de _DATA ANALYST_ à la **Wild Code School** de Nantes.
 
-Vous êtes mandaté par une entreprise qui vend des modèles et des maquettes.
+## 🎯 Objectif du projet:
 
-L’entreprise possède déjà une base de données qui répertorie les employés, les produits, les commandes et bien plus encore. Vous êtes invité à explorer et découvrir cette base de données.
+A partir d'une base de données issue d'une entreprise de modèles réduits, nous devions extraire et traiter des informations pertinentes afin de répondre aux besoins du client.
 
-**Le directeur de l’entreprise souhaite avoir un tableau de bord qu’il pourrait actualiser chaque matin pour obtenir les dernières informations afin de gérer l’entreprise.**
 
-## Objectif & Enjeux
-Votre tableau de bord doit s’articuler autour de ces 4 sujets principaux : ventes, finances, logistique, et ressources humaines. Voici les indicateurs obligatoires qui doivent figurer dans votre tableau de bord. Il est recommandé de créer des KPI supplémentaires. Cette partie est très importante pour développer vos compétences/créativité en tant que data analyst.
+**6 USER STORIES réparties en 4 thèmes:**
+ 
+**FINANCES:**
+-Je souhaite obtenir mon CA pour mes commandes par pays pour les 2 derniers mois
 
-### Ventes : 
-      Le nombre de produits vendus par catégorie et par mois, avec comparaison 
-      et taux de variation par rapport au même mois de l’année précédente.
+-Je souhaite un point sur les commandes impayés
 
-### Finances :
-      Le chiffre d’affaires des commandes des deux derniers mois par pays.
-      Les commandes qui n’ont pas encore été payées.
+**HR:**
+-Je souhaite connaitre les 2 meilleurs vendeurs par CA, par mois
 
-### Logistique : 
-      Le stock des 5 produits les plus commandés.
+**LOGISTICS**
+-Je souhaite connaître le stock des 5 meilleures ventes de mes produits toutes catégories confondues.
 
-### Ressources humaines : 
-      Chaque mois, les 2 vendeurs ayant réalisé le plus de chiffre d’affaires.
-      
-Il arrive parfois que certains indicateurs métiers ne soient pas réalisables techniquement. C’est à vous d’expliquer pourquoi et de proposer vos propres idées pour répondre aux besoins métiers.
+**SALES:**
+-Je souhaite connaître le nombre de produits vendus par catégorie et par mois.
 
-## Ressources
-Voici le schéma de la base de données :
-<img width="940" alt="diagram" src="https://github.com/user-attachments/assets/952d4fd5-7f3a-4487-9ae9-966747051b3e" />
+-Je souhaite comparer les ventes avec les ventes de l'année dernière. (Comparaison : Même mois mais N-1)
 
-## Outils
-Le directeur ne souhaite pas travailler avec SQL mais veut accéder aux données automatiquement et graphiquement. Vous pouvez proposer l’outil de votre choix (Power BI, Tableau, etc.), tant que le tableau de bord est pertinent.
+## 🧰 Outils principaux : 
 
-À titre d’information, la base de données est disponible sur un serveur de l’entreprise. Vous y accédez en mode lecture seule avec un compte utilisateur fourni.
+**Schéma de notre réflexion pour la réalisation de notre livrable client : **
 
-L’entreprise vous fournit également le script que vous pouvez exécuter sur votre serveur MySQL local. Les données sont identiques et s’arrêtent à la fin du mois précédent.
+(mysql => CSV => Power BI, par exemple)
 
-Pendant la semaine de démonstration, de nouvelles données fraîches seront envoyées (vous recevrez le script de mise à jour si vous le faites localement). La démo devra afficher les dernières données disponibles.
+Requêtes de chacun sur MySQL → export des requêtes en local (CSV).  
+Exploitation sur le serveur de l’entreprise si possible → Représentation des requêtes sur Power BI.	
 
-## Base de données SQL
-Vous avez le choix entre vous connecter au serveur cloud ou déployer le script localement. Les données sont identiques dans les deux cas.
+Les **KPIs** ainsi obtenus ont été représentés sous la forme de **Dataviz** via _PowerBi_ et présenté lors d'un entretien. 
 
-## Installation locale
-Vous pouvez installer un serveur MySQL Community sur votre machine, ainsi que le client MySQL Workbench. La base de données est prête à être chargée dans un serveur MySQL. Connectez-vous à votre serveur via Workbench, et exécutez tout le code dans ce fichier.
+## ⌛ Temps imparti: 
+3 semaines
 
-Serveur cloud
-Vous pouvez vous connecter au serveur MariaDB (un fork de MySQL) de l’entreprise.
+## Exemples 
 
-## Notes
-Vous pouvez choisir votre propre outil de reporting. Cependant, l’objectif est de pratiquer SQL. Par conséquent, vous devez obtenir les données via des requêtes SQL. Par exemple, pour les “2 vendeurs ayant réalisé le plus de chiffre d’affaires chaque mois” :
+![CA_pays](https://github.com/SimonVauthier/Projet-1-Toys_CIE_WCS_03_2023/assets/129518759/01af8798-f9c7-4031-8493-4d38024222f0) 
 
-Ce que nous aimerions voir :
-Une requête SQL montrant uniquement les “2 vendeurs ayant réalisé le plus de chiffre d’affaires chaque mois”, et une dataviz pour l’afficher.
-Ce que nous ne voulons pas :
-Une requête SQL montrant tous les vendeurs, puis un filtrage dans votre outil de reporting.
+![CA_pays_2](https://github.com/SimonVauthier/Projet-1-Toys_CIE_WCS_03_2023/assets/129518759/2ec7ae10-7b04-44cb-bf1d-efad515612ed)
 
-## Livrable attendu
-Vous donnerez une courte présentation de votre tableau de bord (demandez à votre formateur la durée). La présentation doit inclure :
+![TOP VENDEUR ](https://github.com/SimonVauthier/Projet-1-Toys_CIE_WCS_03_2023/assets/129518759/5a00a5a9-e0db-47bd-adde-cfac37bd93b4)
 
-* Vue d’ensemble du contexte, présentation de l’équipe et des outils utilisés.
-* Démonstration de votre tableau de bord, et interprétation des KPI métiers.
-* Difficultés rencontrées et perspectives d’évolution.
-  
-**N’hésitez pas à créer des KPI supplémentaires !**
+
+## Présentation au format PDF
+[présentation_Toys_CIE_WCS_03_2023.pdf](https://github.com/SimonVauthier/Projet-1-Toys_CIE_WCS_03_2023/files/11601688/presentation_Toys_CIE_WCS_03_2023.pdf)
