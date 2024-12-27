@@ -23,7 +23,7 @@ Nous devions extraire et traiter des informations pertinentes à partir d'une ba
 **Schéma de notre réflexion pour la réalisation de notre livrable client :**
 <img width="940" alt="diagram" src="https://github.com/user-attachments/assets/952d4fd5-7f3a-4487-9ae9-966747051b3e" />
 
-(Par exemple: mysql => CSV => Power BI, )
+Par exemple: mysql => CSV => Power BI
 
 Requêtes de chacun sur MySQL → export des requêtes en local (CSV).  
 Exploitation sur le serveur de l’entreprise si possible → Représentation des requêtes sur Power BI.	
