@@ -1,5 +1,5 @@
 # 🚗 Projet-1-AZAS-SQL-BI-Toys-and-Models
-Réalisation d'un projet de groupe AZAS dans le cadre de la formation de _DATA ANALYST_ à la **Wild Code School** à Lille.
+Réalisation d'un projet de notre groupe AZAS dans le cadre de la formation de _DATA ANALYST_ à la **Wild Code School** à Lille.
 
 ## 🎯 Objectif du Projet:
 
@@ -30,17 +30,21 @@ Exploitation sur le serveur de l’entreprise si possible → Représentation de
 
 Les **KPIs** ainsi obtenus ont été représentés sous la forme de **Dataviz** via _PowerBi_ et présenté lors d'un entretien. 
 
-## ⌛ Temps imparti: 
+## ⌛ Temps Imparti : 
 3 semaines
 
-## Exemples 
+## Exemples : 
 
-![CA_pays](https://github.com/SimonVauthier/Projet-1-Toys_CIE_WCS_03_2023/assets/129518759/01af8798-f9c7-4031-8493-4d38024222f0) 
+![sales](https://github.com/user-attachments/assets/5fa5ebd9-fc05-440d-b7ef-ecbb5110bce5)
 
-![CA_pays_2](https://github.com/SimonVauthier/Projet-1-Toys_CIE_WCS_03_2023/assets/129518759/2ec7ae10-7b04-44cb-bf1d-efad515612ed)
+![fin1](https://github.com/user-attachments/assets/7a11fa42-e6bd-4baf-a0e4-e1d4bac99da0)
 
-![TOP VENDEUR ](https://github.com/SimonVauthier/Projet-1-Toys_CIE_WCS_03_2023/assets/129518759/5a00a5a9-e0db-47bd-adde-cfac37bd93b4)
+![fin2](https://github.com/user-attachments/assets/665d9d88-edd0-4860-a6cc-02539d395dc2)
+
+![log](https://github.com/user-attachments/assets/3820514f-9069-4335-948b-86d2f629d190)
+
+![hr](https://github.com/user-attachments/assets/f82900b5-f141-4a1b-a62a-4f6bcb687676)
 
 
-## Présentation au format PDF
+## Présentation au format PDF :
 [présentation_toys_and_models.pdf](https://github.com/Sopanha2020/Projet-1-AZAS-SQL-BI-Toys-and-Models/blob/main/Presentation/Toys_and_Models%20Presentation.pdf)
