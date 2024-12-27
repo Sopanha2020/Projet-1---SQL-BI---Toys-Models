@@ -7,16 +7,16 @@ Nous devions extraire et traiter des informations pertinentes à partir d'une ba
 
 **6 récits d'utilisateur divisés en 4 thèmes :**
 
- **SALES:**
-  -Je souhaite connaître le nombre de produits vendus par catégorie et par mois.
-  -Je souhaite comparer les ventes avec les ventes de l'année dernière. (Comparaison : Même mois mais N-1)
-**FINANCES:**
-  -Je souhaite obtenir mon CA pour mes commandes par pays pour les 2 derniers mois
-  -Je souhaite un point sur les commandes impayés
-**LOGISTICS**
-  -Je souhaite connaître le stock des 5 meilleures ventes de mes produits toutes catégories confondues.
-**HR:**
-  -Je souhaite connaitre les 2 meilleurs vendeurs par CA, par mois
+### SALES:
+  Je souhaite connaître le nombre de produits vendus par catégorie et par mois.
+  Je souhaite comparer les ventes avec les ventes de l'année dernière. (Comparaison : Même mois mais N-1)
+### FINANCES:
+  Je souhaite obtenir mon CA pour mes commandes par pays pour les 2 derniers mois
+  Je souhaite un point sur les commandes impayés
+### LOGISTICS:
+  Je souhaite connaître le stock des 5 meilleures ventes de mes produits toutes catégories confondues.
+### HR:
+  Je souhaite connaitre les 2 meilleurs vendeurs par CA, par mois
 
 ## 🧰 Outils Principaux : 
 
