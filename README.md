@@ -43,4 +43,4 @@ Les **KPIs** ainsi obtenus ont été représentés sous la forme de **Dataviz** 
 
 
 ## Présentation au format PDF
-[présentation_Toys_CIE_WCS_03_2023.pdf](https://github.com/SimonVauthier/Projet-1-Toys_CIE_WCS_03_2023/files/11601688/presentation_Toys_CIE_WCS_03_2023.pdf)
+[présentation_toys_and_models.pdf](https://github.com/Sopanha2020/Projet-1-AZAS-SQL-BI-Toys-and-Models/blob/main/Presentation/Toys_and_Models%20Presentation.pdf)
