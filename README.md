@@ -33,7 +33,7 @@ Les **KPIs** ainsi obtenus ont été représentés sous la forme de **Dataviz** 
 ## ⌛ Temps Imparti : 
 3 semaines
 
-## Dashboards : 
+## ✨ Dashboards : 
 
 ![sales](https://github.com/user-attachments/assets/5fa5ebd9-fc05-440d-b7ef-ecbb5110bce5)
 
