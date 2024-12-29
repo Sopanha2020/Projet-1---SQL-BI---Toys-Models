@@ -33,7 +33,7 @@ Les **KPIs** ainsi obtenus ont été représentés sous la forme de **Dataviz** 
 ## ⌛ Temps Imparti : 
 3 semaines
 
-## ✨ Dashboards : 
+## 📊 Dashboards : 
 
 ![sales](https://github.com/user-attachments/assets/5fa5ebd9-fc05-440d-b7ef-ecbb5110bce5)
 
@@ -46,5 +46,5 @@ Les **KPIs** ainsi obtenus ont été représentés sous la forme de **Dataviz** 
 ![hr](https://github.com/user-attachments/assets/f82900b5-f141-4a1b-a62a-4f6bcb687676)
 
 
-## Présentation au format PDF :
+## ✨ Présentation au format PDF :
 [présentation_toys_and_models.pdf](https://github.com/Sopanha2020/Projet-1-AZAS-SQL-BI-Toys-and-Models/blob/main/Presentation/Toys_and_Models%20Presentation.pdf)
