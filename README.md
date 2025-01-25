@@ -1,4 +1,4 @@
-# 🚗 Projet-1-AZAS-SQL-BI-Toys-and-Models
+# 🚗 Projet-1-Group-AZAS-SQL-BI-Toys-and-Models
 Réalisation d'un projet de notre groupe AZAS dans le cadre de la formation de _DATA ANALYST_ à la **Wild Code School** à Lille.
 
 ## 🎯 Objectif du Projet:
